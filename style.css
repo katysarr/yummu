@@ -1,0 +1,173 @@
+nav{
+    /* display: inline-block; */
+    background: url('images/separateur.png') repeat-x bottom;
+    font-family: 'Arial', serif;
+    font-weight: normal;
+    margin-top: 0px;
+    /* display: inline-block;
+     display: inline-block; */
+    width: 100px; 
+    text-align: right;
+    list-style-type: none;
+    /* display: inline-block; */
+    margin-right: 15px;
+    text-decoration: none;
+    display: flex;
+    vertical-align: top;
+}
+
+.menu {
+    float: right; 
+    display: flex;
+    list-style-type: none;
+    
+}
+a{
+    display:block;    
+     min-width: 60px;  
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+}
+.logo{
+    padding-left: 20px;
+}
+.part{
+    margin-left: 260px;
+    margin-top: 100px;
+}
+ p{
+    width: 120px;
+height: 20px;
+top: 409px;
+left: 299px;
+background-color:black;
+color: white;
+text-align: center;
+;
+}
+.part img{
+    margin-left: 300px;
+    margin-top: -200px;
+
+}
+.text img{
+padding: 20px;
+    width : 200px;
+    height : 200px;
+    margin-left: 50px;
+}
+.image{
+    width : 230px;
+    height : 230px;  
+}
+ .text h2{
+    margin-left: 360px;
+    margin-top: 20px;
+   text-decoration: solid;
+}
+.part p3{
+    margin-top: 6%;
+    font-size: 15px;
+}
+.part span{
+    color:#D2483D;
+}
+.paragraphe{
+margin-left: 68Px;
+margin-top: -20px;
+}
+.paragraphe p1 p2{
+    margin-top: -10px;
+}
+.paragraphe2{
+    margin-left: 366Px;
+    margin-top: -50px;   
+}
+.paragraphe3{
+    margin-left: 655Px;
+    margin-top: -50px;  
+}
+.paragraphe5{
+
+color: white;
+text-align: center;
+padding: auto;
+padding-top: 2rem;
+
+}
+.paragraphe6{
+     margin-top: 77px;
+    margin-left: 400px; 
+     background-color: black;
+    color: white; 
+    width: 180px;
+    height: 33px;
+     text-align: center;
+    top: 100px;
+    padding: 15px; 
+    color: white; 
+
+}
+.paragraphe4{
+      background-color: #D2483D; 
+    height: 290px;
+    max-height: 290px;
+     
+        
+}
+.paragraphe7{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.text2{
+    text-align: center;
+    text-decoration: underline #D2483D;
+}
+.title{text-align: center;
+margin-top: 70px;
+font-size: 0.4rem;
+text-decoration: underline #D2483D;
+}
+.image2{
+    
+ justify-content: center;
+ text-align: center;
+ display: flexbox;
+margin-top: 30px;
+} 
+.image2 img{
+    padding: 20px;
+}
+.image3{
+     
+ justify-content: center;
+ text-align: center;
+ display: flexbox;
+ 
+}
+.image3 img{
+    padding: 20px;
+}
+.title2{
+    text-align: center;
+    font-size: 0.4rem;
+    text-decoration: underline #D2483D;
+}
+
+.title3{
+    margin-left: 70px;
+}
+.title4{
+    margin-left: 99px;
+}
+.border{
+    background-color: black;
+    height: 200px;
+    margin-top: 40px;
+}
+.text h2{
+    text-decoration: underline #D2483D;
+}
+
